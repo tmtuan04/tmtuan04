@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tu Minh Tuan</h1>
-<h3 align="center">A passionate software engineer from Vietnam, dedicated to building innovative and user-centric digital solutions</h3>
+<h3 align="center">A passionate <strong>Software Engineer</strong> from Vietnam, dedicated to building innovative and user-centric digital solutions</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmtuan04&label=Profile%20views&color=0e75b6&style=flat" alt="tmtuan04" /> </p>
 
 # 💻 Tech Stack:
